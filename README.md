@@ -2,7 +2,7 @@
 
 > *"Trying to survive AI..."* — Me
 
-"Passionate developer in data, artificial intelligence, and automation. Trying to build something that helps people :)."
+Passionate developer in data, artificial intelligence, and automation. Trying to build something that helps people :).
 
 ---
 
