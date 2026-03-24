@@ -2,7 +2,7 @@
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-Desenvolvedor apaixonado por dados, inteligência artificial e automação. Sempre buscando soluções que unam performance e clareza.
+Desenvolvedor apaixonado por dados, inteligência artificial e automação. Tentando construir algo que ajude pessoas :).
 
 ---
 
