@@ -1,4 +1,4 @@
-# Hi, I'm Giordano Gava 👋
+# Hi, I'm Giordano Bruno Gava 👋
 
 > *"Trying to survive AI..."* — Me
 
