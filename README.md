@@ -1,14 +1,14 @@
-# Olá, eu sou o Giordano Gava 👋
+# Hi, I'm Giordano Gava 👋
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Trying to survive AI..."* — Me
 
-Desenvolvedor apaixonado por dados, inteligência artificial e automação. Tentando construir algo que ajude pessoas :).
+"Passionate developer in data, artificial intelligence, and automation. Trying to build something that helps people :)."
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## 🧰 Technologies & Tools
 
-### 🗄️ Dados & Backend
+### 🗄️ Data & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,13 +38,15 @@ Desenvolvedor apaixonado por dados, inteligência artificial e automação. Tent
 
 <div align="center">
 
+![Giordano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiordanoGava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiordanoGava&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GiordanoGava)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiordanoGava)
